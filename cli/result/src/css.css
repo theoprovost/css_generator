@@ -1,0 +1,23 @@
+.sprite {
+    width: calc(400px);
+    height: calc(400px);
+    background-image: url("./test.png");
+    background-position: 0 0;
+}
+
+#img1 {
+    background-position: 0 0;
+}
+
+#img2 {
+    background-position: 700 0;
+}
+
+#img3 {
+    background-position: 1400 0;
+}
+
+#img4 {
+    background-position: 2100 0;
+}
+

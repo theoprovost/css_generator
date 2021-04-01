@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sprite {
+    width: 400px;
+    height: 400px;
+}
+
+button {
+    border: none;
+    background-color: inherit;
+    font-size: 3em;
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    outline: none;
+}
+
+#btn_before {
+    padding-right: 1em;
+}
+
+button:hover {
+    font-weight: 900;
+}
